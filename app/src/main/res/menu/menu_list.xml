@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sort_deadline"
+        android:title="Sortir berdasarkan Deadline"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sort_status"
+        android:title="Sortir berdasarkan Status"
+        app:showAsAction="never" />
+</menu>
