@@ -1,4 +1,4 @@
-# Taskly — Android To-Do List App
+# Taskly Android To-Do List App
 
 > Pemrograman Perangkat Bergerak (Mobile App Development) · ITS Surabaya · 2025
 
@@ -12,25 +12,19 @@ A native Android to-do list application built with Kotlin, featuring full task m
 
 ## Overview
 
-Taskly is a native Android to-do list app designed to help users organize daily tasks efficiently. Built entirely with Kotlin and standard XML layouts, it provides a clean and intuitive interface for creating, managing, and tracking tasks — including deadline scheduling, category grouping, and local reminders.
+Taskly is a native Android to-do list app designed to help users organize daily tasks efficiently. Built entirely with Kotlin and standard XML layouts, it provides a clean and intuitive interface for creating, managing, and tracking tasks including deadline scheduling, category grouping, and local reminders.
 
 ---
 
 ## Features
 
-- ✅ **Add Task** — Create new tasks with title and details
-- ✏️ **Edit Task** — Update existing task information anytime
-- 🗑️ **Delete Task** — Remove tasks that are no longer needed
-- 📅 **Deadline / Due Date** — Set due dates to stay on schedule
-- 🏷️ **Categories / Labels** — Organize tasks by category
-- 🔔 **Notifications / Reminders** — Get reminded before task deadlines
-- ☑️ **Mark as Done** — Track completion status for each task
-
----
-
-## Screenshots
-
-> *(Add screenshots of your app here)*
+- ✅ **Add Task** : Create new tasks with title and details
+- ✏️ **Edit Task** : Update existing task information anytime
+- 🗑️ **Delete Task** : Remove tasks that are no longer needed
+- 📅 **Deadline / Due Date** : Set due dates to stay on schedule
+- 🏷️ **Categories / Labels** : Organize tasks by category
+- 🔔 **Notifications / Reminders** : Get reminded before task deadlines
+- ☑️ **Mark as Done** : Track completion status for each task
 
 ---
 
@@ -109,6 +103,6 @@ This project was developed as part of the *Pemrograman Perangkat Bergerak* (Mobi
 **Agnes Priscilla Sekartaji Hadikusuma**  
 S1 Teknik Informatika · Institut Teknologi Sepuluh Nopember (ITS) Surabaya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnespriscilla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnespriscilla33)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/agnespriscilla)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agnes.priscilla33@gmail.com)
